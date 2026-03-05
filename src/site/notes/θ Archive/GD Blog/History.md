@@ -1,5 +1,5 @@
 ---
-{"dg-note-icon":2,"tags":["Blog"],"dg-publish":true,"createTime":"2026-01-6 10:58","updateTime":"2026-01-6 10:58","description":null,"permalink":"/th-archive/gd-blog/history/","dgPassFrontmatter":true}
+{"tags":["Blog"],"dg-publish":true,"dg-note-icon":2,"dg-path":null,"createTime":"2026-01-6 10:58","updateTime":"2026-01-6 10:58","description":null,"permalink":"/th-archive/gd-blog/history/","dgPassFrontmatter":true}
 ---
 
 ## 总览
@@ -11,13 +11,13 @@
 <p><span><strong>Obsidian</strong><mark>笔记</mark>总数 <strong>1021</strong> 篇，其中<mark>私有笔记</mark> <strong>935</strong> 篇，分享<mark>博客笔记</mark> <strong>86</strong> 篇，<mark>标签</mark> <strong>29</strong>个</span></p>
 
 ## 最近修改
-| 标题                                                                                            | 时间                  |
-| --------------------------------------------------------------------------------------------- | ------------------- |
-| [[θ Archive/GD Blog/Cards\|Cards]]                                                         | 2026年3月4日 AM10:56   |
-| [[α Inbox/Drawing 2026-03-04 10.39.35.excalidraw\|Drawing 2026-03-04 10.39.35.excalidraw]] | 2026年3月4日 AM10:39   |
-| [[θ Archive/GD Blog/Homepage\|Homepage]]                                                   | 2026年3月3日 PM8:25    |
-| [[η Project/NAS&Server/腾讯域名\|腾讯域名]]                                                        | 2026年3月3日 PM2:28    |
-| [[η Project/NAS&Server/域名解析\|域名解析]]                                                        | 2026年2月24日 AM11:13  |
+| 标题                                                                                            | 时间                 |
+| --------------------------------------------------------------------------------------------- | ------------------ |
+| [[θ Archive/GD Blog/Homepage\|Homepage]]                                                   | 2026年3月5日 AM8:47   |
+| [[θ Archive/GD Blog/History\|History]]                                                     | 2026年3月5日 AM8:36   |
+| [[θ Archive/GD Blog/Cards\|Cards]]                                                         | 2026年3月4日 AM10:56  |
+| [[α Inbox/Drawing 2026-03-04 10.39.35.excalidraw\|Drawing 2026-03-04 10.39.35.excalidraw]] | 2026年3月4日 AM10:39  |
+| [[η Project/NAS&Server/腾讯域名\|腾讯域名]]                                                        | 2026年3月3日 PM2:28   |
 
 { .block-language-dataview}
 ## 最近创建
