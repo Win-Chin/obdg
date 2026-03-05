@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/th-archive/gd-blog/homepage/","pinned":true,"tags":["gardenEntry"]}
+{"dg-pinned":true,"dg-publish":true,"dg-home":true,"dg-note-icon":5,"slug":"homepage","cover":"","categories":[],"halo":{"site":"https://qinclan.cn","name":"3f16c031-d9e1-4fc5-8d96-c89f9f53fbf0","publish":false},"permalink":"/th-archive/gd-blog/homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 > [!tip]
@@ -35,8 +35,8 @@
 <div><span>2026年结束，倒计还剩300 /365天</span></div><progress max="300" value="300"><span>-</span></progress>
 
 # Waiting Task
-- [[α Inbox/Task_2026\|Task_2026]]
 - [[α Inbox/Drawing 2026-03-04 10.39.35.excalidraw\|Drawing 2026-03-04 10.39.35.excalidraw]]
+- [[α Inbox/Task_2026\|Task_2026]]
 
 { .block-language-dataview}
 

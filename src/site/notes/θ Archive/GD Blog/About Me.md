@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/th-archive/gd-blog/about-me/","tags":["Blog"]}
+{"dg-publish":true,"dg-note-icon":2,"tags":["Blog"],"cssclasses":[],"permalink":"/th-archive/gd-blog/about-me/","dgPassFrontmatter":true}
 ---
 
 
