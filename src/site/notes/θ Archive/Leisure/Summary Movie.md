@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/θ Archive/Leisure/Summary Movie/","tags":["summary"],"noteIcon":1,"created":"2025-01-04T13:36:59.255+08:00","updated":"2026-01-10T17:21:56.191+08:00"}
+{"dg-publish":true,"permalink":"/θ Archive/Leisure/Summary Movie/","tags":["summary"],"noteIcon":1,"created":"2025-01-04T13:36:59.255+08:00"}
 ---
 
 # 观影

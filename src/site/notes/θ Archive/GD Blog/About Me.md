@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/θ Archive/GD Blog/About Me/","tags":["Blog"],"noteIcon":2,"created":"2024-08-25T09:39:10.409+08:00","updated":"2026-03-05T15:16:06.965+08:00"}
+{"dg-publish":true,"permalink":"/θ Archive/GD Blog/About Me/","tags":["Blog"],"noteIcon":2,"created":"2024-08-25T09:39:10.409+08:00"}
 ---
 
 

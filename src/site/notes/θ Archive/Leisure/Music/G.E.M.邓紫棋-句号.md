@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/θ Archive/Leisure/Music/G.E.M.邓紫棋-句号/","title":"句号","tags":["music"],"noteIcon":2,"created":"2025-02-18T21:24:28.206+08:00","updated":"2026-01-10T17:48:53.016+08:00"}
+{"dg-publish":true,"permalink":"/θ Archive/Leisure/Music/G.E.M.邓紫棋-句号/","title":"句号","tags":["music"],"noteIcon":2,"created":"2025-02-18T21:24:28.206+08:00"}
 ---
 
 # 专辑

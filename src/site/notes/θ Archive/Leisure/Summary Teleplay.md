@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/θ Archive/Leisure/Summary Teleplay/","tags":["summary"],"noteIcon":1,"created":"2025-01-04T13:39:47.143+08:00","updated":"2026-01-10T17:21:42.215+08:00"}
+{"dg-publish":true,"permalink":"/θ Archive/Leisure/Summary Teleplay/","tags":["summary"],"noteIcon":1,"created":"2025-01-04T13:39:47.143+08:00"}
 ---
 
 # 电视剧/美剧
