@@ -1,5 +1,5 @@
 ---
-{"doubanId":34898159,"title":"句号","type":"music","actor":["邓紫棋 G.E.M."],"score":8.6,"scoreStar":"⭐⭐⭐⭐","genre":["流行"],"medium":"数字(Digital)","albumType":"单曲","datePublished":"2019-11-22","publisher":"索尼音乐","barcode":null,"url":"https://music.douban.com/subject/34898159/","records":null,"tags":["music"],"image":"θ Archive/Images/Douban/s33526401.jpg","imageurl":"https://img2.doubanio.com/view/subject/m/public/s33526401.jpg","createTime":"2025-02-18 21:24:28","updateTime":"2025-02-18 21:24:28","dg-publish":true,"dg-note-icon":2,"permalink":"/th-archive/leisure/music/g-e-m/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/th-archive/leisure/music/g-e-m/","title":"句号","tags":["music"],"noteIcon":2,"updated":"2026-01-10T17:48:53.016+08:00"}
 ---
 
 # 专辑
