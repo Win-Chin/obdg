@@ -11,13 +11,13 @@
 <p><span><strong>Obsidian</strong><mark>笔记</mark>总数 <strong>1025</strong> 篇，其中<mark>私有笔记</mark> <strong>939</strong> 篇，分享<mark>博客笔记</mark> <strong>86</strong> 篇，<mark>标签</mark> <strong>29</strong>个</span></p>
 
 ## 最近修改
-| 标题                                                                  | 时间                |
-| ------------------------------------------------------------------- | ----------------- |
-| [[γ Personal/Children/体育/体能项目\|体能项目]]                            | 2026年3月5日 PM9:22  |
-| [[α Inbox/NAS 媒体文件命名规范_NAS\|NAS 媒体文件命名规范_NAS]]                   | 2026年3月5日 PM7:33  |
-| [[ζ Technique/Other/Win11关闭右键菜单中“显示更多选项”\|Win11关闭右键菜单中“显示更多选项”]] | 2026年3月5日 PM4:56  |
-| [[β Journa/Daily/Daily_20260201\|Daily_20260201]]                | 2026年3月5日 PM3:44  |
-| [[β Journa/Daily/Daily_20260202\|Daily_20260202]]                | 2026年3月5日 PM3:44  |
+| 标题                                                                          | 时间                |
+| --------------------------------------------------------------------------- | ----------------- |
+| [[ε Theory/Document/Article/逆袭故事\|逆袭故事]]                                 | 2026年3月6日 AM8:29  |
+| [[ε Theory/Document/Article/陈吉宁：平庸与卓越的差别不在天赋而在坚持\|陈吉宁：平庸与卓越的差别不在天赋而在坚持]] | 2026年3月6日 AM8:27  |
+| [[γ Personal/Children/体育/体能项目\|体能项目]]                                    | 2026年3月5日 PM9:22  |
+| [[α Inbox/NAS 媒体文件命名规范_NAS\|NAS 媒体文件命名规范_NAS]]                           | 2026年3月5日 PM7:33  |
+| [[ζ Technique/Other/Win11关闭右键菜单中“显示更多选项”\|Win11关闭右键菜单中“显示更多选项”]]         | 2026年3月5日 PM4:56  |
 
 { .block-language-dataview}
 ## 最近创建
