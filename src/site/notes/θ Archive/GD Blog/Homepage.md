@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/th-archive/gd-blog/homepage/","pinned":true,"tags":["gardenEntry"],"noteIcon":5,"updated":"2026-03-05T08:47:46.055+08:00"}
+{"dg-publish":true,"permalink":"/θ Archive/GD Blog/Homepage/","pinned":true,"tags":["gardenEntry"],"noteIcon":5,"created":"2024-08-24T08:36:20.682+08:00","updated":"2026-03-05T08:47:46.055+08:00"}
 ---
 
 > [!tip]
@@ -9,15 +9,15 @@
 	
 
 📰赢秦散记
-<div><span>时间:2026-03-06  --Fri，今天我来过，倘若发现时间停止在某天，说明博客已经停更，也或许印证了罗翔老师的那句话，“我们永远无法确定明天和意外哪个先到来”</span></div><span><span>博客是以<strong>Obsidian</strong>笔记为核心。Obsidian中一部分是<strong>博客笔记</strong>，通过<strong>Github</strong>发布在博客中，这些内容是愿意分享的；另一部分是<strong>私有笔记</strong>，记录个人笔记，这部分内容只能看到笔记名但因未上传故无法查看。如何区分博客笔记和私有笔记，在博客中笔记名称前有<strong>笔记图标</strong>标记的是博客笔记。今日是博客发布565天。</span></span><p><span>已使用<strong>Obsidian</strong>1575天，共创建1025篇文档、29个标签、755个待办。</span></p>
+<div><span>时间:2026-03-06  --Fri，今天我来过，倘若发现时间停止在某天，说明博客已经停更，也或许印证了罗翔老师的那句话，“我们永远无法确定明天和意外哪个先到来”</span></div><span><span>博客是以<strong>Obsidian</strong>笔记为核心。Obsidian中一部分是<strong>博客笔记</strong>，通过<strong>Github</strong>发布在博客中，这些内容是愿意分享的；另一部分是<strong>私有笔记</strong>，记录个人笔记，这部分内容只能看到笔记名但因未上传故无法查看。如何区分博客笔记和私有笔记，在博客中笔记名称前有<strong>笔记图标</strong>标记的是博客笔记。今日是博客发布565天。</span></span><p><span>已使用<strong>Obsidian</strong>1575天，共创建1027篇文档、31个标签、755个待办。</span></p>
 
 ## Count
 | 笔记库统计                         |
 | ----------------------------- |
-| 库中共有1025个页面，总计约526万字节（5.02MB） |
+| 库中共有1027个页面，总计约526万字节（5.02MB） |
 
 { .block-language-dataview}
-<p><span><strong>Obsidian</strong><mark>笔记</mark>总数 <strong>1025</strong> 篇，其中<mark>私有笔记</mark> <strong>939</strong> 篇，分享<mark>博客笔记</mark> <strong>86</strong> 篇，<mark>标签</mark> <strong>29</strong>个</span></p>
+<p><span><strong>Obsidian</strong><mark>笔记</mark>总数 <strong>1027</strong> 篇，其中<mark>私有笔记</mark> <strong>941</strong> 篇，分享<mark>博客笔记</mark> <strong>86</strong> 篇，<mark>标签</mark> <strong>31</strong>个</span></p>
 
 # Note Ico
 每个笔记的笔记名头有一个表示类型或成熟度标记的图标
@@ -37,6 +37,8 @@
 # Waiting Task
 - [[α Inbox/NAS 媒体文件命名规范_NAS\|NAS 媒体文件命名规范_NAS]]
 - [[α Inbox/Task_2026\|Task_2026]]
+- [[α Inbox/123\|123]]
+- [[α Inbox/未命名\|未命名]]
 
 { .block-language-dataview}
 
@@ -44,7 +46,7 @@
 # History
 | 月份        | 数量    |
 | --------- | ----- |
-| 2026年 3月  | 6 篇   |
+| 2026年 3月  | 8 篇   |
 | 2026年 2月  | 10 篇  |
 | 2026年 1月  | 54 篇  |
 | 2025年 12月 | 16 篇  |
@@ -78,4 +80,23 @@
 
 { .block-language-dataview}
 # Tag
-<p><span><a class="internal-link" data-href="#Task" href="#Task" target="_blank" rel="noopener nofollow"></a><a href="#Task" class="tag" target="_blank" rel="noopener nofollow">#Task</a>(122) <a class="internal-link" data-href="#TASK" href="#TASK" target="_blank" rel="noopener nofollow"></a><a href="#TASK" class="tag" target="_blank" rel="noopener nofollow">#TASK</a>(122) <a class="internal-link" data-href="#Daily" href="#Daily" target="_blank" rel="noopener nofollow"></a><a href="#Daily" class="tag" target="_blank" rel="noopener nofollow">#Daily</a>(119) <a class="internal-link" data-href="#Blog" href="#Blog" target="_blank" rel="noopener nofollow"></a><a href="#Blog" class="tag" target="_blank" rel="noopener nofollow">#Blog</a>(86) <a class="internal-link" data-href="#StrongCulture" href="#StrongCulture" target="_blank" rel="noopener nofollow"></a><a href="#StrongCulture" class="tag" target="_blank" rel="noopener nofollow">#StrongCulture</a>(45) <a class="internal-link" data-href="#Script" href="#Script" target="_blank" rel="noopener nofollow"></a><a href="#Script" class="tag" target="_blank" rel="noopener nofollow">#Script</a>(27) <a class="internal-link" data-href="#movie" href="#movie" target="_blank" rel="noopener nofollow"></a><a href="#movie" class="tag" target="_blank" rel="noopener nofollow">#movie</a>(22) <a class="internal-link" data-href="#excalidraw" href="#excalidraw" target="_blank" rel="noopener nofollow"></a><a href="#excalidraw" class="tag" target="_blank" rel="noopener nofollow">#excalidraw</a>(20) <a class="internal-link" data-href="#teleplay" href="#teleplay" target="_blank" rel="noopener nofollow"></a><a href="#teleplay" class="tag" target="_blank" rel="noopener nofollow">#teleplay</a>(16) <a class="internal-link" data-href="#music" href="#music" target="_blank" rel="noopener nofollow"></a><a href="#music" class="tag" target="_blank" rel="noopener nofollow">#music</a>(15) <a class="internal-link" data-href="#Case" href="#Case" target="_blank" rel="noopener nofollow"></a><a href="#Case" class="tag" target="_blank" rel="noopener nofollow">#Case</a>(11) <a class="internal-link" data-href="#book" href="#book" target="_blank" rel="noopener nofollow"></a><a href="#book" class="tag" target="_blank" rel="noopener nofollow">#book</a>(10) <a class="internal-link" data-href="#game" href="#game" target="_blank" rel="noopener nofollow"></a><a href="#game" class="tag" target="_blank" rel="noopener nofollow">#game</a>(8) <a class="internal-link" data-href="#MeinKampf" href="#MeinKampf" target="_blank" rel="noopener nofollow"></a><a href="#MeinKampf" class="tag" target="_blank" rel="noopener nofollow">#MeinKampf</a>(7) <a class="internal-link" data-href="#summary" href="#summary" target="_blank" rel="noopener nofollow"></a><a href="#summary" class="tag" target="_blank" rel="noopener nofollow">#summary</a>(5) <a class="internal-link" data-href="#define" href="#define" target="_blank" rel="noopener nofollow"></a><a href="#define" class="tag" target="_blank" rel="noopener nofollow">#define</a>(4) <a class="internal-link" data-href="#Design" href="#Design" target="_blank" rel="noopener nofollow"></a><a href="#Design" class="tag" target="_blank" rel="noopener nofollow">#Design</a>(4) <a class="internal-link" data-href="#Readme" href="#Readme" target="_blank" rel="noopener nofollow"></a><a href="#Readme" class="tag" target="_blank" rel="noopener nofollow">#Readme</a>(4) <a class="internal-link" data-href="#include" href="#include" target="_blank" rel="noopener nofollow"></a><a href="#include" class="tag" target="_blank" rel="noopener nofollow">#include</a>(3) <a class="internal-link" data-href="#Halo" href="#Halo" target="_blank" rel="noopener nofollow"></a><a href="#Halo" class="tag" target="_blank" rel="noopener nofollow">#Halo</a>(2) <a class="internal-link" data-href="#Nous" href="#Nous" target="_blank" rel="noopener nofollow"></a><a href="#Nous" class="tag" target="_blank" rel="noopener nofollow">#Nous</a>(2) <a class="internal-link" data-href="#Obsidian" href="#Obsidian" target="_blank" rel="noopener nofollow"></a><a href="#Obsidian" class="tag" target="_blank" rel="noopener nofollow">#Obsidian</a>(2) <a class="internal-link" data-href="#Alist" href="#Alist" target="_blank" rel="noopener nofollow"></a><a href="#Alist" class="tag" target="_blank" rel="noopener nofollow">#Alist</a>(1) <a class="internal-link" data-href="#define_" href="#define_" target="_blank" rel="noopener nofollow"></a><a href="#define_" class="tag" target="_blank" rel="noopener nofollow">#define_</a>(1) <a class="internal-link" data-href="#error" href="#error" target="_blank" rel="noopener nofollow"></a><a href="#error" class="tag" target="_blank" rel="noopener nofollow">#error</a>(1) <a class="internal-link" data-href="#if" href="#if" target="_blank" rel="noopener nofollow"></a><a href="#if" class="tag" target="_blank" rel="noopener nofollow">#if</a>(1) <a class="internal-link" data-href="#Problem" href="#Problem" target="_blank" rel="noopener nofollow"></a><a href="#Problem" class="tag" target="_blank" rel="noopener nofollow">#Problem</a>(1) <a class="internal-link" data-href="#Word" href="#Word" target="_blank" rel="noopener nofollow"></a><a href="#Word" class="tag" target="_blank" rel="noopener nofollow">#Word</a>(1) <a class="internal-link" data-href="#Xmind" href="#Xmind" target="_blank" rel="noopener nofollow"></a><a href="#Xmind" class="tag" target="_blank" rel="noopener nofollow">#Xmind</a>(1)</span></p>
+<pre class="dataview dataview-error">Evaluation Error: Error: Failed to parse query in 'pagePaths': Error: 
+-- PARSING FAILED --------------------------------------------------
+
+&gt; 1 | #[object
+    |  ^
+
+Expected one of the following: 
+
+'and' or 'or', EOF, text
+
+    at DataviewApi.pagePaths (plugin:dataview:19333:19)
+    at DataviewApi.pages (plugin:dataview:19355:21)
+    at DataviewInlineApi.pages (plugin:dataview:18802:25)
+    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:3:17)
+    at eval (plugin:dataview:8447:24)
+    at Array.sort (&lt;anonymous&gt;)
+    at Proxy.sort (plugin:dataview:8445:14)
+    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:3:4)
+    at DataviewInlineApi.eval (plugin:dataview:19027:16)
+    at evalInContext (plugin:dataview:19028:7)</pre>
