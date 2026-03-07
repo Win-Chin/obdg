@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/θ Archive/Leisure/Summary Game/","tags":["summary"],"noteIcon":1,"created":"2025-04-04T10:20:06.844+08:00"}
+{"dg-publish":true,"permalink":"/θ Archive/Leisure/Summary Game/","tags":["summary"],"noteIcon":1,"created":"2025-04-04T10:20:06.844+08:00","updated":"2026-01-10T17:31:47.287+08:00"}
 ---
 
 # 观影

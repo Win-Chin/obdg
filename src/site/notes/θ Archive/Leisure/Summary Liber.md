@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/θ Archive/Leisure/Summary Liber/","tags":["summary"],"noteIcon":1,"created":"2025-01-04T13:36:51.186+08:00"}
+{"dg-publish":true,"permalink":"/θ Archive/Leisure/Summary Liber/","tags":["summary"],"noteIcon":1,"created":"2025-01-04T13:36:51.186+08:00","updated":"2026-01-10T17:22:01.093+08:00"}
 ---
 
 # 藏书

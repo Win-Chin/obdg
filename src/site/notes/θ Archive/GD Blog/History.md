@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/θ Archive/GD Blog/History/","tags":["Blog"],"noteIcon":2,"created":"2024-09-11T19:28:09.648+08:00"}
+{"dg-publish":true,"permalink":"/θ Archive/GD Blog/History/","tags":["Blog"],"noteIcon":2,"created":"2024-09-11T19:28:09.648+08:00","updated":"2026-03-05T15:16:30.361+08:00"}
 ---
 
 ## 总览

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/θ Archive/Leisure/Summary Music/","tags":["summary"],"noteIcon":1,"created":"2025-01-04T13:36:54.281+08:00"}
+{"dg-publish":true,"permalink":"/θ Archive/Leisure/Summary Music/","tags":["summary"],"noteIcon":1,"created":"2025-01-04T13:36:54.281+08:00","updated":"2026-01-10T17:21:50.866+08:00"}
 ---
 
 # 听曲

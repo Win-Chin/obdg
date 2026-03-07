@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/θ Archive/GD Blog/Homepage/","pinned":true,"tags":["gardenEntry"],"noteIcon":5,"created":"2024-08-24T08:36:20.682+08:00"}
+{"dg-publish":true,"permalink":"/θ Archive/GD Blog/Homepage/","pinned":true,"tags":["gardenEntry"],"noteIcon":5,"created":"2024-08-24T08:36:20.682+08:00","updated":"2026-03-05T08:47:46.055+08:00"}
 ---
 
 > [!tip]
