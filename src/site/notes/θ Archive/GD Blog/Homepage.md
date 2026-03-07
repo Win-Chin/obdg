@@ -32,7 +32,7 @@
 
 # Count Down
 
-<div><span>2026年结束，倒计还剩299 /365天</span></div><progress max="300" value="299"><span>-</span></progress>
+<div><span>2026年结束，倒计还剩298 /365天</span></div><progress max="300" value="298"><span>-</span></progress>
 
 # Waiting Task
 - [[α Inbox/NAS 媒体文件命名规范\|NAS 媒体文件命名规范]]
