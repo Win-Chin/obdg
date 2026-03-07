@@ -14,20 +14,93 @@ const {
   userEleventySetup,
 } = require("./src/helpers/userSetup");
 
-const Image = require("@11ty/eleventy-img");
-function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
-  let options = {
-    widths: widths,
-    formats: ["webp", "jpeg"],
-    outputDir: "./dist/img/optimized",
-    urlPath: "/img/optimized",
-  };
+//const Image = require("@11ty/eleventy-img");
+//function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
+  //let options = {
+   // widths: widths,
+   // formats: ["webp", "jpeg"],
+    //outputDir: "./dist/img/optimized",
+   // urlPath: "/img/optimized",
+ // };
 
   // generate images, while this is async we don’t wait
-  Image(src, options);
-  let metadata = Image.statsSync(src, options);
-  return metadata;
-}
+ // Image(src, options);
+ // let metadata = Image.statsSync(src, options);
+ // return metadata;
+//}
+
+// .eleventy.js 完整配置示例（替换你现有配置）
+const Image = require("@11ty/eleventy-img");
+const path = require("path");
+const fs = require("fs").promises;
+
+module.exports = async function(eleventyConfig) {
+  // 核心：重写图片处理逻辑，添加完整的错误捕获和格式校验
+  eleventyConfig.addAsyncShortcode("image", async function(src, alt, sizes = "100vw") {
+    // 1. 定义 sharp 支持的图片格式（小写）
+    const SUPPORTED_FORMATS = ["jpg", "jpeg", "png", "webp", "gif", "avif", "tiff"];
+    
+    // 2. 处理空 alt（符合规范）
+    if (alt === undefined) {
+      console.warn(`⚠️ 图片 ${src} 缺少 alt 属性`);
+      alt = "";
+    }
+
+    try {
+      // 3. 校验图片格式（从文件名提取后缀）
+      const fileExt = path.extname(src).toLowerCase().replace(".", "");
+      if (!SUPPORTED_FORMATS.includes(fileExt)) {
+        console.warn(`⚠️ 跳过不支持的图片格式：${src}（格式：${fileExt}）`);
+        return `<img src="${src}" alt="${alt}" loading="lazy">`;
+      }
+
+      // 4. 校验本地文件是否存在（非网络图片）
+      if (src.startsWith("./") || src.startsWith("../") || !src.startsWith("http")) {
+        const fullPath = path.resolve(process.cwd(), src);
+        try {
+          await fs.access(fullPath); // 检查文件是否可访问
+        } catch (err) {
+          console.error(`❌ 图片文件不存在：${fullPath}`);
+          return `<img src="${src}" alt="${alt}" loading="lazy">`;
+        }
+      }
+
+      // 5. 正常处理图片（你的原有配置）
+      const metadata = await Image(src, {
+        widths: [300, 600, 900], // 根据你的需求调整
+        formats: ["webp", "jpeg"], // 只生成支持的格式
+        outputDir: path.join("_site", "img"), // 输出目录
+        urlPath: "/img/", // 访问路径
+      });
+
+      // 6. 生成响应式图片 HTML
+      return Image.generateHTML(metadata, {
+        alt,
+        sizes,
+        loading: "lazy",
+        decoding: "async",
+      });
+
+    } catch (err) {
+      // 兜底：所有错误都返回原始图片标签，不中断构建
+      console.error(`❌ 处理图片 ${src} 失败：${err.message}`);
+      return `<img src="${src}" alt="${alt}" loading="lazy">`;
+    }
+  });
+
+  // 可选：排除明确不支持的文件（避免被扫描）
+  eleventyConfig.ignores.add("**/*.bmp");
+  eleventyConfig.ignores.add("**/*.ico");
+  eleventyConfig.ignores.add("**/*.heic");
+  eleventyConfig.ignores.add("**/*.svg"); // SVG 建议单独处理，不用 eleventy-img
+
+  return {
+    dir: {
+      input: "src", // 你的输入目录，根据实际修改
+      output: "_site"
+    }
+  };
+};
 
 function getAnchorLink(filePath, linkTitle) {
   const { attributes, innerHTML } = getAnchorAttributes(filePath, linkTitle);
