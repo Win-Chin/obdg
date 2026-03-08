@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ζ Technique/Soft/Github/Github中英文说明切换/","title":"Github中README多种语言切换功能的实现","noteIcon":3,"created":"2025-03-09T09:27:12.619+08:00"}
+{"dg-publish":true,"permalink":"/ζ Technique/Soft/Github/Github中英文说明切换/","title":"Github中README多种语言切换功能的实现","noteIcon":3,"created":"2025-03-09T09:27:12.619+08:00","updated":"2026-01-06T11:46:04.182+08:00"}
 ---
 
 ## Goal

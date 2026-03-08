@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/β Journa/List_Note/","noteIcon":1,"created":"2025-12-08T08:13:06.440+08:00"}
+{"dg-publish":true,"permalink":"/β Journa/List_Note/","noteIcon":1,"created":"2025-12-08T08:13:06.440+08:00","updated":"2026-03-05T15:33:21.556+08:00"}
 ---
 
 

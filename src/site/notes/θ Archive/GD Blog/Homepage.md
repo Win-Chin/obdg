@@ -9,15 +9,15 @@
 	
 
 📰赢秦散记
-<div><span>时间:2026-03-07  --Sat，今天我来过，倘若发现时间停止在某天，说明博客已经停更，也或许印证了罗翔老师的那句话，“我们永远无法确定明天和意外哪个先到来”</span></div><span><span>博客是以<strong>Obsidian</strong>笔记为核心。Obsidian中一部分是<strong>博客笔记</strong>，通过<strong>Github</strong>发布在博客中，这些内容是愿意分享的；另一部分是<strong>私有笔记</strong>，记录个人笔记，这部分内容只能看到笔记名但因未上传故无法查看。如何区分博客笔记和私有笔记，在博客中笔记名称前有<strong>笔记图标</strong>标记的是博客笔记。今日是博客发布566天。</span></span><p><span>已使用<strong>Obsidian</strong>1576天，共创建1027篇文档、29个标签、760个待办。</span></p>
+<div><span>时间:2026-03-09  --Mon，今天我来过，倘若发现时间停止在某天，说明博客已经停更，也或许印证了罗翔老师的那句话，“我们永远无法确定明天和意外哪个先到来”</span></div><span><span>博客是以<strong>Obsidian</strong>笔记为核心。Obsidian中一部分是<strong>博客笔记</strong>，通过<strong>Github</strong>发布在博客中，这些内容是愿意分享的；另一部分是<strong>私有笔记</strong>，记录个人笔记，这部分内容只能看到笔记名但因未上传故无法查看。如何区分博客笔记和私有笔记，在博客中笔记名称前有<strong>笔记图标</strong>标记的是博客笔记。今日是博客发布568天。</span></span><p><span>已使用<strong>Obsidian</strong>1578天，共创建1028篇文档、29个标签、760个待办。</span></p>
 
 ## Count
 | 笔记库统计                         |
 | ----------------------------- |
-| 库中共有1027个页面，总计约526万字节（5.01MB） |
+| 库中共有1028个页面，总计约528万字节（5.04MB） |
 
 { .block-language-dataview}
-<p><span><strong>Obsidian</strong><mark>笔记</mark>总数 <strong>1027</strong> 篇，其中<mark>私有笔记</mark> <strong>941</strong> 篇，分享<mark>博客笔记</mark> <strong>86</strong> 篇，<mark>标签</mark> <strong>29</strong>个</span></p>
+<p><span><strong>Obsidian</strong><mark>笔记</mark>总数 <strong>1028</strong> 篇，其中<mark>私有笔记</mark> <strong>942</strong> 篇，分享<mark>博客笔记</mark> <strong>86</strong> 篇，<mark>标签</mark> <strong>29</strong>个</span></p>
 
 # Note Ico
 每个笔记的笔记名头有一个表示类型或成熟度标记的图标
@@ -32,11 +32,12 @@
 
 # Count Down
 
-<div><span>2026年结束，倒计还剩298 /365天</span></div><progress max="300" value="298"><span>-</span></progress>
+<div><span>2026年结束，倒计还剩297 /365天</span></div><progress max="300" value="297"><span>-</span></progress>
 
 # Waiting Task
 - [[α Inbox/NAS 媒体文件命名规范\|NAS 媒体文件命名规范]]
 - [[α Inbox/Task_2026\|Task_2026]]
+- [[α Inbox/古今通用权谋手册\|古今通用权谋手册]]
 
 { .block-language-dataview}
 
@@ -44,7 +45,7 @@
 # History
 | 月份        | 数量    |
 | --------- | ----- |
-| 2026年 3月  | 10 篇  |
+| 2026年 3月  | 11 篇  |
 | 2026年 2月  | 10 篇  |
 | 2026年 1月  | 52 篇  |
 | 2025年 12月 | 16 篇  |
