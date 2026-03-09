@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ζ Technique/Soft/Github/Github中英文说明切换/","title":"Github中README多种语言切换功能的实现","noteIcon":3,"created":"2025-03-09T09:27:12.619+08:00","updated":"2026-01-06T11:46:04.182+08:00"}
+{"title":"Github中README多种语言切换功能的实现","tags":[],"createTime":"2025-03-9 09:28","updateTime":"2025-03-9 09:51","description":null,"slug":"githubzhong-readmeduo-zhong-yu-yan-qie-huan-gong-neng-de-shi-xian","cover":"","categories":[],"halo":{"site":"https://qinclan.cn","name":"51a7a7b3-6bb7-46df-97a8-193a660b3d29","publish":false},"dg-publish":true,"dg-note-icon":3,"permalink":"/ζ Technique/Soft/Github/Github中英文说明切换/","dgPassFrontmatter":true,"noteIcon":3,"created":"2025-03-09T09:27:12.619+08:00","updated":"2026-01-06T11:46:04.182+08:00"}
 ---
 
 ## Goal
