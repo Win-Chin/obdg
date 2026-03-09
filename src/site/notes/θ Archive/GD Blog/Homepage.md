@@ -1,5 +1,5 @@
 ---
-{"dg-pinned":true,"dg-publish":true,"dg-home":true,"dg-note-icon":5,"slug":"homepage","cover":"","categories":[],"halo":{"site":"https://qinclan.cn","name":"3f16c031-d9e1-4fc5-8d96-c89f9f53fbf0","publish":false},"permalink":"/θ Archive/GD Blog/Homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":5,"created":"2024-08-24T08:36:20.682+08:00","updated":"2026-03-05T08:47:46.055+08:00"}
+{"dg-pinned":true,"dg-publish":true,"dg-home":true,"dg-note-icon":5,"slug":"homepage","cover":"","categories":[],"halo":{"site":"https://qinclan.cn","name":"3f16c031-d9e1-4fc5-8d96-c89f9f53fbf0","publish":false},"permalink":"/th-archive/gd-blog/homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":5,"created":"2024-08-24T08:36:20.682+08:00","updated":"2026-03-05T08:47:46.055+08:00"}
 ---
 
 > [!tip]

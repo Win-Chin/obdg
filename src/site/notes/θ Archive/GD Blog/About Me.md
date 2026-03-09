@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":2,"tags":["Blog"],"cssclasses":[],"permalink":"/θ Archive/GD Blog/About Me/","dgPassFrontmatter":true,"noteIcon":2,"created":"2024-08-25T09:39:10.409+08:00","updated":"2026-03-07T20:33:41.744+08:00"}
+{"dg-publish":true,"dg-note-icon":2,"tags":["Blog"],"cssclasses":[],"permalink":"/th-archive/gd-blog/about-me/","dgPassFrontmatter":true,"noteIcon":2,"created":"2024-08-25T09:39:10.409+08:00","updated":"2026-03-07T20:33:41.744+08:00"}
 ---
 
 
